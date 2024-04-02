@@ -23602,21 +23602,21 @@ var jackpotPots = {
 //different version of difficulty
 var jackpotAiDifficulty1 = {
 	1: {
-		freq: 0.20,
+		freq: 0.900,
 		milspec: 0.950,
 		restricted: 0.975,
 		classified: 0.998,
 		covert: 0.999
 	},
 	2: {
-		freq: 0.30,
+		freq: 0.900,
 		milspec: 0.750,
 		restricted: 0.900,
 		classified: 0.998,
 		covert: 0.999
 	},
 	3: {
-		freq: 0.35,
+		freq: 0.90,
 		milspec: 0.500,
 		restricted: 0.600,
 		classified: 0.950,
@@ -23695,7 +23695,7 @@ function jackpotStart() {
 	$(".winneravatar").html("");
 	jackpotInProgress = true;
 	var skins = 0;
-	var maxSkins = 150;
+	var maxSkins = 1000;
 	var pot = {};
 	var players = [];
 	var botTickets = {
