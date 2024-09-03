@@ -4,7 +4,7 @@
 var itemCounter = 1;
 var fps = 15;
 
-var money = 10000.00;
+var money = 100.00;
 var username = localStorage.getItem('username');
 if (localStorage.getItem("username") === null) {
 	localStorage.setItem('username' , "Player 1 (You)")
