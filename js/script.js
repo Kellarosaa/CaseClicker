@@ -2,7 +2,7 @@
 //money, inventory, jackpot
 (function(){
 var itemCounter = 1;
-var fps = 15;
+var fps = 60;
 
 var money = 100.00;
 var username = localStorage.getItem('username');
@@ -15,7 +15,7 @@ if (localStorage.getItem("imgData") === null) {
 }
 
 var currentCase = "case1";
-var acceptMoneyPerClick = 10.00;
+var acceptMoneyPerClick = 100000.00;
 
 /*=========================Inventory============================*/
 //In inventory: weap skins
