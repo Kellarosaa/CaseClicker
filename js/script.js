@@ -23616,49 +23616,49 @@ var jackpotAiDifficulty1 = {
 		covert: 0.999
 	},
 	3: {
-		freq: 0.90,
+		freq: 0.900,
 		milspec: 0.500,
 		restricted: 0.600,
 		classified: 0.950,
 		covert: 0.999
 	},
 	4: {
-		freq: 0.40,
+		freq: 0.900,
 		milspec: 0.350,
 		restricted: 0.500,
 		classified: 0.950,
 		covert: 0.999
 	},
 	5: {
-		freq: 0.50,
+		freq: 0.900,
 		milspec: 0.200,
 		restricted: 0.400,
 		classified: 0.600,
 		covert: 0.800
 	},
 	6: {
-		freq: 0.05,
+		freq: 0.900,
 		milspec: 0.150,
 		restricted: 0.200,
 		classified: 0.950,
 		covert: 0.400
 	},
 	7: {
-		freq: 0.05,
+		freq: 0.900,
 		milspec: 0.050,
 		restricted: 0.150,
 		classified: 0.950,
 		covert: 0.350
 	},
 	8: {
-		freq: 0.05,
+		freq: 0.900,
 		milspec: 0.025,
 		restricted: 0.090,
 		classified: 0.350,
 		covert: 0.250
 	},
 	9: {
-		freq: 0.05,
+		freq: 0.900,
 		milspec: 0.005,
 		restricted: 0.010,
 		classified: 0.015,
